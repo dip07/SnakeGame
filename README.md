@@ -20,7 +20,7 @@ View help instruction.
   ![Get Help](/get-help.jpg)
   
 ##### In the game, objects will appear at any location, and the snake should eat it:
-  [Game](/game.jpg)
+  ![Game](/game.jpg)
 
 ##### You can get the score after the game is over:
-  [Get Score](/score.jpg)
+  ![Get Score](/score.jpg)
